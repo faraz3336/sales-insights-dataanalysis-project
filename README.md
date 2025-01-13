@@ -1,4 +1,3 @@
-Here's an enhanced version of the instructions for your GitHub README, making them more attractive and understandable:
 
 ---
 
